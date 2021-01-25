@@ -24,7 +24,7 @@ const babelConfig = {
         [
             "component",
             {
-                "libraryName": "element-plus",
+                "libraryName": "element-ui",
                 "styleLibraryName": "theme-chalk"
             }
         ]
