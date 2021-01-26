@@ -1,6 +1,6 @@
 /**
  * element plus UI组件
- * npm install element-plus --save
+ * npm i element-ui -S
  */
 
 /**

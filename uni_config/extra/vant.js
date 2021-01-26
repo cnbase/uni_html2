@@ -1,6 +1,6 @@
 /**
  * vant vue3版本UI组件
- * npm i vant@next -S
+ * npm i vant -S
  */
 
 /**
