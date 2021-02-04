@@ -19,7 +19,7 @@
 
 ### 安装
 
-* 下载最新版本 `git clone https://github.com/hiQbit/uni_html2.git`
+* 下载最新版本 `git clone https://github.com/ibzero/uni_html2.git`
 * Project setup `npm install`
 * 配置 `uni_config/config.js` 文件 `uniName`,`moduleName`,`devMode`,`apiMode`,`apiUrl` 等参数
 * 配置 `uni_config/extra.js` 文件 `extraFilePath` 参数
